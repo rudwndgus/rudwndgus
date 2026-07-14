@@ -63,19 +63,31 @@
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-24292f?style=for-the-badge&logo=html5&logoColor=e34c26" />
+  <img src="https://img.shields.io/badge/CSS3-24292f?style=for-the-badge&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/JavaScript-24292f?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/TypeScript-24292f?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+  <img src="https://img.shields.io/badge/React-24292f?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Vite-24292f?style=for-the-badge&logo=vite&logoColor=ffd62e" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-24292f?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
 </p>
 
 ### Backend / App Work
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,php,python" />
+  <img src="https://img.shields.io/badge/Java-24292f?style=for-the-badge&logo=openjdk&logoColor=b07219" />
+  <img src="https://img.shields.io/badge/Kotlin-24292f?style=for-the-badge&logo=kotlin&logoColor=a97bff" />
+  <img src="https://img.shields.io/badge/PHP-24292f?style=for-the-badge&logo=php&logoColor=777bb4" />
+  <img src="https://img.shields.io/badge/Python-24292f?style=for-the-badge&logo=python&logoColor=ffd43b" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,figma" />
+  <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-24292f?style=for-the-badge&logo=git&logoColor=f05032" />
+  <img src="https://img.shields.io/badge/VS_Code-24292f?style=for-the-badge&logo=visualstudiocode&logoColor=007acc" />
+  <img src="https://img.shields.io/badge/Figma-24292f?style=for-the-badge&logo=figma&logoColor=f24e1e" />
 </p>
 
 ## Connect with me:
