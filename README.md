@@ -23,7 +23,7 @@
 - Built **Farmtasy**, a comprehensive farm management app project with JavaScript, Java, PHP, Classic ASP, and web technologies.
 - Interested in practical product flows: data entry, dashboards, mobile-style UI, user-friendly management tools, and deployable web apps.
 - Comfortable making both serious project screens and small web experiments when I want to test an idea quickly.
-- Currently strengthening **JavaScript**, **Java**, **React**, **TypeScript**, and full-stack app structure.
+- Currently strengthening **HTML**, **CSS**, **JavaScript**, **Java**, and app project structure.
 
 ## Main Projects:
 
@@ -32,7 +32,7 @@
     <td width="50%">
       <h3>Freshow</h3>
       <p>Refrigerator management software for ingredient tracking, expiration-date management, barcode-based input, and recipe recommendations.</p>
-      <p><b>Tech:</b> JavaScript, Kotlin</p>
+      <p><b>Tech:</b> JavaScript</p>
       <a href="https://github.com/JJangWoo0418/Freshow">Repository</a>
     </td>
     <td width="50%">
@@ -46,7 +46,7 @@
     <td width="50%">
       <h3>Farmtasy</h3>
       <p>Comprehensive farm management app project with multiple service and management features.</p>
-      <p><b>Tech:</b> JavaScript, Java, PHP, Classic ASP, HTML</p>
+      <p><b>Tech:</b> JavaScript, Java, HTML, CSS</p>
       <a href="https://github.com/JJangWoo0418/Farmtasy">Repository</a>
     </td>
     <td width="50%">
@@ -66,28 +66,20 @@
   <img src="https://img.shields.io/badge/HTML5-24292f?style=for-the-badge&logo=html5&logoColor=e34c26" />
   <img src="https://img.shields.io/badge/CSS3-24292f?style=for-the-badge&logo=css3&logoColor=1572b6" />
   <img src="https://img.shields.io/badge/JavaScript-24292f?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/TypeScript-24292f?style=for-the-badge&logo=typescript&logoColor=3178c6" />
-  <img src="https://img.shields.io/badge/React-24292f?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Vite-24292f?style=for-the-badge&logo=vite&logoColor=ffd62e" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-24292f?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
 </p>
 
 ### Backend / App Work
 
 <p>
   <img src="https://img.shields.io/badge/Java-24292f?style=for-the-badge&logo=openjdk&logoColor=b07219" />
-  <img src="https://img.shields.io/badge/Kotlin-24292f?style=for-the-badge&logo=kotlin&logoColor=a97bff" />
-  <img src="https://img.shields.io/badge/PHP-24292f?style=for-the-badge&logo=php&logoColor=777bb4" />
-  <img src="https://img.shields.io/badge/Python-24292f?style=for-the-badge&logo=python&logoColor=ffd43b" />
 </p>
 
 ### Tools
 
 <p>
   <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-24292f?style=for-the-badge&logo=git&logoColor=f05032" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-24292f?style=for-the-badge&logo=githubpages&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-24292f?style=for-the-badge&logo=visualstudiocode&logoColor=007acc" />
-  <img src="https://img.shields.io/badge/Figma-24292f?style=for-the-badge&logo=figma&logoColor=f24e1e" />
 </p>
 
 ## Connect with me:
