@@ -20,7 +20,7 @@
 
 - Building and improving **Freshow**, a refrigerator management app for ingredients, expiration dates, barcode input, and recipe recommendations.
 - Worked on **Freshow_Server**, connecting service-side features with Java, HTML, CSS, and JavaScript.
-- Built **Farmtasy**, a comprehensive farm management app project with JavaScript, Java, PHP, Classic ASP, and web technologies.
+- Built **Farmtasy**, a comprehensive farm management app project with JavaScript, Java, HTML, and CSS-based web technologies.
 - Interested in practical product flows: data entry, dashboards, mobile-style UI, user-friendly management tools, and deployable web apps.
 - Comfortable making both serious project screens and small web experiments when I want to test an idea quickly.
 - Currently strengthening **HTML**, **CSS**, **JavaScript**, **Java**, and app project structure.
@@ -96,14 +96,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rudwndgus&show_icons=true&hide_border=true&theme=transparent" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudwndgus&layout=compact&hide_border=true&theme=transparent" height="165" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rudwndgus&theme=transparent&hide_border=true" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rudwndgus&theme=flat&no-frame=true&row=1&column=6" />
 
 </div>
 
