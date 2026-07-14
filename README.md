@@ -2,104 +2,113 @@
 
 # Kyung Jung Hyun
 
-### Frontend-focused builder making playful, useful web apps
+### Software developer focused on practical app experiences
 
-I like turning everyday problems into small polished tools: lunch pickers, budget calculators, travel planners, and browser games.  
-My favorite stack is simple, fast, and visual: **HTML/CSS/JavaScript**, **React + Vite**, **TypeScript**, **Tailwind CSS**, and **GitHub Pages**.
+I build application features from UI to data flow, with experience across **mobile-style apps**, **web frontends**, and **server-side project work**.  
+My main projects center around real product flows like refrigerator management, farm management, search, and service dashboards.
 
-[![GitHub](https://img.shields.io/badge/GitHub-rudwndgus-2f2b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudwndgus)
-[![Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-ffd66e?style=for-the-badge&logo=githubpages&logoColor=2f2b27)](https://pages.github.com/)
-[![PWA](https://img.shields.io/badge/Building-PWA%20Apps-9ad9c8?style=for-the-badge&logo=pwa&logoColor=2f2b27)](https://web.dev/progressive-web-apps/)
+[![GitHub](https://img.shields.io/badge/GitHub-rudwndgus-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudwndgus)
+[![JavaScript](https://img.shields.io/badge/JavaScript-main%20language-f1e05a?style=for-the-badge&logo=javascript&logoColor=24292f)](https://github.com/rudwndgus)
+[![Java](https://img.shields.io/badge/Java-backend%20work-b07219?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/rudwndgus)
 
 </div>
 
 ---
 
-## What I Build
-
-- **Daily-life tools**: budgeting, calculators, planners, saved local data, mobile-friendly layouts
-- **Playful browser apps**: memory games, food tournaments, interactive pickers
-- **Travel/productivity UI**: trip workspaces, tabs, cards, schedules, maps, budgets
-- **Deployable static apps**: GitHub Pages, PWA manifests, service workers, home-screen install support
-
-## Featured Apps
+## Main Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Show Me The Money</h3>
-      <p>생활비 계산기 + 월 예산 노트 + 달력 기반 하루 예산 표시. PWA로 홈 화면 설치 가능.</p>
-      <p><b>Stack:</b> HTML, CSS, JavaScript, localStorage, PWA, GitHub Pages</p>
+      <h3>Freshow</h3>
+      <p><b>Refrigerator management software</b></p>
       <p>
-        <a href="https://rudwndgus.github.io/show-me-the-money/">Live App</a> ·
-        <a href="https://github.com/rudwndgus/show-me-the-money">Code</a>
+        App for managing food ingredients through refrigerator cards, expiration-date tracking,
+        barcode-based ingredient input, and recipe recommendations using available ingredients.
+      </p>
+      <p><b>Tech:</b> JavaScript, Kotlin, mobile app UI, data-driven user flow</p>
+      <p>
+        <a href="https://github.com/JJangWoo0418/Freshow">Repository</a>
       </p>
     </td>
     <td width="50%">
-      <h3>BLUU Lunch Worldcup</h3>
-      <p>점심 메뉴를 월드컵 방식으로 고르는 재미있는 브라우저 앱.</p>
-      <p><b>Stack:</b> HTML, CSS, JavaScript, responsive UI, GitHub Pages</p>
+      <h3>Freshow Server</h3>
+      <p><b>Server-side and web support for Freshow</b></p>
       <p>
-        <a href="https://rudwndgus.github.io/bluulunchworldcup/">Live App</a> ·
-        <a href="https://github.com/rudwndgus/bluulunchworldcup">Code</a>
+        Backend/server repository connected to the Freshow ecosystem, with Java, HTML, CSS,
+        and JavaScript code for service-side implementation work.
+      </p>
+      <p><b>Tech:</b> Java, HTML, CSS, JavaScript</p>
+      <p>
+        <a href="https://github.com/rudwndgus/Freshow_Server">Repository</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>BLUU Memory Game</h3>
-      <p>이미지 기반 메모리 게임. 가볍게 열고 바로 플레이 가능한 정적 웹앱.</p>
-      <p><b>Stack:</b> HTML, CSS, JavaScript, GitHub Pages</p>
+      <h3>Farmtasy</h3>
+      <p><b>Farm management app project</b></p>
       <p>
-        <a href="https://rudwndgus.github.io/bluuzzu-memory/">Live App</a> ·
-        <a href="https://github.com/rudwndgus/bluuzzu-memory">Code</a>
+        Comprehensive farm management project covering app/service features for managing farm-related data and workflows.
+      </p>
+      <p><b>Tech:</b> JavaScript, Java, PHP, Classic ASP, HTML</p>
+      <p>
+        <a href="https://github.com/JJangWoo0418/Farmtasy">Repository</a>
       </p>
     </td>
     <td width="50%">
-      <h3>TRIPO</h3>
-      <p>여행 계획을 위한 workspace UI: 일정, 지도, 예산, 아이디어 탭으로 구성된 React 앱.</p>
-      <p><b>Stack:</b> React, Vite, TypeScript, Tailwind CSS, Framer Motion, Lucide React</p>
+      <h3>Job Search App</h3>
+      <p><b>Job-search focused app work</b></p>
       <p>
-        <a href="https://github.com/rudwndgus/Triary">Related Repo</a>
+        Application project exploring job-search flows and user-facing web functionality.
+      </p>
+      <p><b>Tech:</b> JavaScript</p>
+      <p>
+        <a href="https://github.com/rudwndgus/jobsearch-app">Repository</a>
       </p>
     </td>
   </tr>
 </table>
 
-## Tech Stack
+## Technical Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-2f2b27?style=for-the-badge&logo=html5&logoColor=ffb899" />
-  <img src="https://img.shields.io/badge/CSS3-2f2b27?style=for-the-badge&logo=css3&logoColor=9fc9ff" />
-  <img src="https://img.shields.io/badge/JavaScript-2f2b27?style=for-the-badge&logo=javascript&logoColor=ffd66e" />
-  <img src="https://img.shields.io/badge/TypeScript-2f2b27?style=for-the-badge&logo=typescript&logoColor=9fc9ff" />
-  <img src="https://img.shields.io/badge/React-2f2b27?style=for-the-badge&logo=react&logoColor=9ad9c8" />
-  <img src="https://img.shields.io/badge/Vite-2f2b27?style=for-the-badge&logo=vite&logoColor=ffd66e" />
-  <img src="https://img.shields.io/badge/Tailwind-2f2b27?style=for-the-badge&logo=tailwindcss&logoColor=9ad9c8" />
-  <img src="https://img.shields.io/badge/Python-2f2b27?style=for-the-badge&logo=python&logoColor=ffd66e" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-2f2b27?style=for-the-badge&logo=githubpages&logoColor=fffdf8" />
+  <img src="https://img.shields.io/badge/JavaScript-24292f?style=for-the-badge&logo=javascript&logoColor=f1e05a" />
+  <img src="https://img.shields.io/badge/Java-24292f?style=for-the-badge&logo=openjdk&logoColor=b07219" />
+  <img src="https://img.shields.io/badge/Kotlin-24292f?style=for-the-badge&logo=kotlin&logoColor=a97bff" />
+  <img src="https://img.shields.io/badge/HTML5-24292f?style=for-the-badge&logo=html5&logoColor=e34c26" />
+  <img src="https://img.shields.io/badge/CSS3-24292f?style=for-the-badge&logo=css3&logoColor=563d7c" />
+  <img src="https://img.shields.io/badge/PHP-24292f?style=for-the-badge&logo=php&logoColor=777bb4" />
+  <img src="https://img.shields.io/badge/React-24292f?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Vite-24292f?style=for-the-badge&logo=vite&logoColor=ffd62e" />
+  <img src="https://img.shields.io/badge/TypeScript-24292f?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+  <img src="https://img.shields.io/badge/Tailwind-24292f?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
 </p>
 
-## Current Focus
+## Experience Areas
 
 ```txt
-Designing interfaces that feel cute, clear, and useful
-Building mobile-first browser apps
-Turning static web projects into installable PWA-style apps
-Practicing React + TypeScript app architecture
+Application UI and user flows
+Mobile-style frontend implementation
+JavaScript-heavy web projects
+Java/server-side project work
+Static site deployment and GitHub Pages
+React + Vite + TypeScript practice projects
 ```
+
+## Side Experiments
+
+These are smaller personal builds and UI experiments, mostly for practice and fun:
+
+- [Show Me The Money](https://github.com/rudwndgus/show-me-the-money) - PWA-style 생활비 계산기
+- [BLUU Lunch Worldcup](https://github.com/rudwndgus/bluulunchworldcup) - lunch picker tournament
+- [BLUU Memory Game](https://github.com/rudwndgus/bluuzzu-memory) - browser memory game
 
 ## GitHub Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rudwndgus&show_icons=true&hide_border=true&title_color=2f2b27&icon_color=ffb899&text_color=2f2b27" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudwndgus&layout=compact&hide_border=true&title_color=2f2b27&text_color=2f2b27" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rudwndgus&show_icons=true&hide_border=true&title_color=24292f&icon_color=0969da&text_color=24292f" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudwndgus&layout=compact&hide_border=true&title_color=24292f&text_color=24292f" />
 
-</div>
-
----
-
-<div align="center">
-  <sub>Small apps, useful details, and a little bit of delight.</sub>
 </div>
